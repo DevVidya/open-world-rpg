@@ -1,0 +1,17 @@
+{
+    "name": "weld.editor",
+    "references": [
+        "GUID:f2b7166fe076a1f4a8d11ed8e4784898"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
